@@ -1,7 +1,5 @@
 # WeSendTestMail
 
-# WeSendTestMail 📧
-
 **WeSendTestMail** is a free, simple, and lightweight email testing tool that sends a real test email directly to your inbox. Instantly verify if your email address is receiving messages correctly.
 
 🔗 **Live Demo:** [https://wesendtestmail.com](https://wesendtestmail.com)
